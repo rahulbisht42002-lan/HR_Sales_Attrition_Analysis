@@ -23,4 +23,4 @@ Python (Pandas), SQL (MySQL), Power BI (DAX, conditional formatting)
 IBM HR Analytics Employee Attrition dataset (Kaggle)
 
 ## Dashboard Preview
-*(screenshot link goes here — see below)*
+![Dashboard Screenshot](https://raw.githubusercontent.com/rahulbisht42002-lan/HR_Sales_Attrition_Analysis/704686946ae944f7e6ddb1ac1a10ffb230ade4e4/HR%20sales%20attrition%20analysis/Screenshot%202026-07-24%20093457.png)
